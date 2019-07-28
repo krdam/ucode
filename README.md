@@ -1,6 +1,7 @@
 # ucode race00
 
 LEGEND
+
 Story begins right now.
 Rebels group is approaching a one of the Machines Power plant. Power plants generate
 electrical energy for Machines. It looks like giant skyscraper composed of thousands of
@@ -11,12 +12,14 @@ Your mission is to represent a map of the plant and mark The One on it.
 Race 00 | Marathon C > 5
 
 DESCRIPTION
+
 A function race00 that will print a map on the standard output.
 Size of the plant and Neo coordinates will be provided to the function race00 as arguments.
 
 
 
 CONSOLE OUTPUT
+
 >./race00 | cat -e # for map 5x4 and The One at (1;1)
 <=--=>$
 *0000*$
