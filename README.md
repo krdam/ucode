@@ -20,23 +20,23 @@ Size of the plant and Neo coordinates will be provided to the function race00 as
 
 CONSOLE OUTPUT
 
->./race00 | cat -e # for map 5x4 and The One at (1;1)
-<=--=>$
-*0000*$
-+0100+$
-*0000*$
-+0000+$
-*0000*$
-<=--=>$
->./race00 | cat -e # for map 4x1 and The One at (3;0)
-<=>$
-*0*$
-+0+$
-*0*$
-+1+$
-<=>$
->./race00 | cat -e # for map 1x4 and The One at (0;0)
-<=--=>$
-*1000*$
-<=--=>$
->./race00 | cat -e # for map 3x0 and The One at (19;91)
+ >./race00 | cat -e # for map 5x4 and The One at (1;1)
+ <=--=>$
+ *0000*$
+ +0100+$
+ *0000*$
+ +0000+$
+ *0000*$
+ <=--=>$
+ >./race00 | cat -e # for map 4x1 and The One at (3;0)
+ <=>$
+ *0*$
+ +0+$
+ *0*$
+ +1+$
+ <=>$
+ >./race00 | cat -e # for map 1x4 and The One at (0;0)
+ <=--=>$
+ *1000*$
+ <=--=>$
+ >./race00 | cat -e # for map 3x0 and The One at (19;91) 
